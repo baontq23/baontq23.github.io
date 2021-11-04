@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Find me on Twitter</name>
+			<url>https://twitter.com/ntbao2</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Send me an email</name>
+			<url>mailto:baooshacker@gmail.com</url>
+			<iconclass>fa fa-envelope-open</iconclass>
+		</link>
+		<link>
+	    <name>Buy me a coffee/beer</name>
+	    <url>https://www.paypal.me/trieubaoit</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
+	</footerlinks>
+</repo>

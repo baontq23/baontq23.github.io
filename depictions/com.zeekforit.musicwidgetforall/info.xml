@@ -1,0 +1,26 @@
+﻿<package>
+	<id>com.zeekforit.musicwidgetforall</id>
+	<name>MusicWidgetForAll</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>XenInfo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Install using XenHTML</description>
+		<description><![CDATA[• Ability to open music app by pressing album art<br />• Ability to hide widgets when music apps are not running<br />• Animations - The buttons usually reacts the same time.<br />• Scrolls the title when it exceeds the layout<br />• Ability for users to modify UI<br />]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Version 2.0.1</change>
+	</changelog>
+</package>

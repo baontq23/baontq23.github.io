@@ -1,0 +1,12 @@
+﻿<package>
+	<id>com.zeekforit.allowtouchesonpagedots</id>
+	<name>AllowTouchesOnPageDots</name>
+	<version>1.0.1</version>
+	<descriptionlist>
+		<description>Install and respring</description>
+		<description>This will hide page dots while allowing users to touch anything behind it.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Version 1.0.1</change>
+	</changelog>
+</package>
