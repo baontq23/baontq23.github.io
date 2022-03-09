@@ -84,7 +84,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Hack liên quân Garena 1.44.1.11
 Depends: mobilesubstrate
-Section: Game Tweaks
+Section: Tweaks
 Author: baontq
 Maintainer: NTQB
 Filename: ./deb/com.baontq.lienquanvn_1.44.1.11_iphoneos-arm.deb
