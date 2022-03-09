@@ -78,3 +78,19 @@ SHA256: 06481c35bce8e5cf207a3057353cab805e0eb48169064e92a6e186e9b6e87ee2
 Depiction: https://zeekforit.github.io/depictions/?p=com.zeekforit.allowtouchesonpagedots
 Name: AllowTouchesOnPageDots
 
+
+Package: com.baontq.lienquanvn
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hack lien quân Garena 1.44
+Depends: mobilesubstrate
+Section: Tweaks
+Author: baontq
+Maintainer: NTQB
+Filename: ./deb/com.baontq.lienquanvn_1.44.1.11_iphoneos-arm.deb
+Size: 250
+MD5sum: 3404f11f64a69d3248998507a0a6493d
+SHA1: A15F99768CF09A12362F24184A8F2DAA319A2C7C
+SHA256: 2694252BBAE38361F7AE78ADBCB22CC0D525CD2E69CCC6D6FFA345796499A43D
+Depiction: https://zeekforit.github.io/depictions/?p=com.baontq.lienquanvn
+Name: Hack Liên Quân

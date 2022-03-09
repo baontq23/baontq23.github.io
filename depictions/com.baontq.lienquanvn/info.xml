@@ -1,0 +1,26 @@
+﻿<package>
+	<id>com.baontq.lienquanvn</id>
+	<name>Hack Lien Quan</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>15.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Cài qua Filza</description>
+		<description><![CDATA[• Dùng game gốc tải từ Appstore để chơi<br />• Tích hợp sẵn antiban<br />• Khi game cập nhật deb sẽ tự khoá<br />• Vì server mình khá yếu nếu chơi đông có thể gặp tình trạng deb không hoạt động thì khởi động lại game<br />• Mới vào game mà thấy tick sẵn chức năng thì hãy reset lại xong hãng bật hack<br />]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Version 1.0</change>
+	</changelog>
+</package>
